@@ -1,0 +1,5 @@
+.venv/
+.env
+.secret_key.py
+*.pyc
+*.sqlite3
